@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Movflix" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/backgroundPrimary</item>
+        <item name="android:label">@string/empty_string</item>
+
+    </style>
+
+
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+
+        <!-- Set the splash screen background to black -->
+        <item name="windowSplashScreenBackground">@android:color/white</item>
+        <!-- Use windowSplashScreenAnimatedIcon to add a drawable or an animated
+             drawable. -->
+        <!-- Set a white background behind the splash screen icon. -->
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen</item>
+        <item name="splashScreenIconSize">18dp</item>
+        <!-- Set the theme of the Activity that follows your splash screen. -->
+        <item name="postSplashScreenTheme">@style/Base.Theme.Movflix</item>
+    </style>
+    <style name="Theme.Movflix" parent="Base.Theme.Movflix" />
+</resources>

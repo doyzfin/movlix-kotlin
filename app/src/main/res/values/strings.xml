@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Movflix</string>
+    <string name="about">About</string>
+    <string name="empty_string"></string>
+
+    <string name="name">Muhammad Alfin Ramadhan</string>
+    <string name="email">alfinramadhan97@gmail.com</string>
+
+    <string name="movie_title">Judul Film</string>
+    <string name="movie_title_year">Tahun</string>
+    <string name="movie_title_genre">Genre</string>
+    <string name="movie_plot">Plot</string>
+
+    <string-array name="movie_name">
+        <item>Madagascar 3: Europes Most Wanted</item>
+        <item>The Cotton Club</item>
+        <item>The Hobbit: The Desolation of Smaug</item>
+        <item>Crocodile Dundee</item>
+        <item>Flight</item>
+        <item>Ratatouille</item>
+        <item>City of God</item>
+        <item>Shutter Island</item>
+        <item>Inception</item>
+        <item>Stardust</item>
+    </string-array>
+
+    <string-array name="movie_year">
+        <item>2012</item>
+        <item>1984</item>
+        <item>2013</item>
+        <item>1986</item>
+        <item>2012</item>
+        <item>2007</item>
+        <item>2002</item>
+        <item>2010</item>
+        <item>2010</item>
+        <item>2007</item>
+    </string-array>
+
+    <string-array name="movie_genre">
+        <item>Animation, Adventure, Comedy</item>
+        <item>Crime, Drama, Music</item>
+        <item>Adventure, Fantasy</item>
+        <item>Adventure, Comedy</item>
+        <item>Drama, Thriller</item>
+        <item>Animation, Comedy, Family</item>
+        <item>Crime, Drama</item>
+        <item>Mystery, Thriller</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Adventure, Family, Fantasy</item>
+    </string-array>
+
+    <string-array name="movie_plot">
+        <item>Alex, Marty, Gloria and Melman are still fighting to get home to their beloved Big Apple. Their journey takes them through Europe where they find the perfect cover: a traveling circus, which they reinvent - Madagascar style.</item>
+        <item>The Cotton Club was a famous night club in Harlem. The story follows the people that visited the club, those that ran it, and is peppered with the Jazz music that made it so famous.</item>
+        <item>The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.</item>
+        <item>An American reporter goes to the Australian outback to meet an eccentric crocodile poacher and invites him to New York City.</item>
+        <item>An airline pilot saves almost all his passengers on his malfunctioning airliner which eventually crashed, but an investigation into the accident reveals something troubling.</item>
+        <item>A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.</item>
+        <item>Two boys growing up in a violent neighborhood of Rio de Janeiro take different paths: one becomes a photographer, the other a drug dealer.</item>
+        <item>In 1954, a U.S. marshal investigates the disappearance of a murderess who escaped from a hospital for the criminally insane.</item>
+        <item>A thief, who steals corporate secrets through use of dream-sharing technology, is given the inverse task of planting an idea into the mind of a CEO.</item>
+        <item>In a countryside town bordering on a magical land, a young man makes a promise to his beloved that hell retrieve a fallen star by venturing into the magical realm.</item>
+    </string-array>
+
+    <string-array name="movie_photo">
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@._V1_SX300.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTU5ODAyNzA4OV5BMl5BanBnXkFtZTcwNzYwNTIzNA@@._V1_SX300.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SX300.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0MTU1MTg4NF5BMl5BanBnXkFtZTgwMDgzNzYxMTE@._V1_SX300.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1_SX300.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4ODQ3ODkzNV5BMl5BanBnXkFtZTYwOTc4NDI3._V1_SX300.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxMTIyNzMxMV5BMl5BanBnXkFtZTcwOTc4OTI3Mg@@._V1_SX300.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg</item>
+        <item>https://images-na.ssl-images-amazon.com/images/M/MV5BMjkyMTE1OTYwNF5BMl5BanBnXkFtZTcwMDIxODYzMw@@._V1_SX300.jpg</item>
+    </string-array>
+</resources>

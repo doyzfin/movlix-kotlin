@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#2196F3</color> <!-- Primary color (toolbar, status bar) -->
+    <color name="colorPrimaryDark">#1976D2</color> <!-- Darker shade of the primary color (status bar) -->
+    <color name="colorAccent">#FF4081</color> <!-- Accent color (buttons, highlights) -->
+
+    <!-- Text colors -->
+    <color name="textPrimary">#333333</color> <!-- Primary text color (dark gray) -->
+    <color name="textSecondary">#757575</color> <!-- Secondary text color (light gray) -->
+    <color name="textTitle">#000000</color> <!-- Title text color (black) -->
+
+    <!-- Background colors -->
+    <color name="backgroundPrimary">#FFFFFF</color> <!-- Background color (white) -->
+    <color name="backgroundSecondary">#EAEAEA</color> <!-- Secondary background color (light gray) -->
+</resources>
