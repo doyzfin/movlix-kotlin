@@ -1,6 +1,6 @@
 # Movlix
 
-[![Build Status](https://travis-ci.org/your-username/your-repository.svg?branch=master)](https://travis-ci.org/doyzfin/movlix-kotlin)
+[![Build Status](https://travis-ci.org/doyzfin/movlix-kotlin.svg?branch=master)](https://travis-ci.org/doyzfin/movlix-kotlin)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Brief description of your Kotlin app.
